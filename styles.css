@@ -334,7 +334,7 @@ header {
 
 .product-thumb img {
     max-width: 100%;
-    max-width: 100%;
+    padding-top: 60px;
 }
 
 .product-detailes {
